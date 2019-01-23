@@ -1,0 +1,11 @@
+/Users/magnus/Documents/Dualog-Internship/Program/obj/Debug/netcoreapp2.1/Dualog-Internship.csprojAssemblyReference.cache
+/Users/magnus/Documents/Dualog-Internship/Program/obj/Debug/netcoreapp2.1/Dualog-Internship.csproj.CoreCompileInputs.cache
+/Users/magnus/Documents/Dualog-Internship/Program/obj/Debug/netcoreapp2.1/Dualog-Internship.AssemblyInfoInputs.cache
+/Users/magnus/Documents/Dualog-Internship/Program/obj/Debug/netcoreapp2.1/Dualog-Internship.AssemblyInfo.cs
+/Users/magnus/Documents/Dualog-Internship/Program/bin/Debug/netcoreapp2.1/Dualog-Internship.deps.json
+/Users/magnus/Documents/Dualog-Internship/Program/bin/Debug/netcoreapp2.1/Dualog-Internship.runtimeconfig.json
+/Users/magnus/Documents/Dualog-Internship/Program/bin/Debug/netcoreapp2.1/Dualog-Internship.runtimeconfig.dev.json
+/Users/magnus/Documents/Dualog-Internship/Program/bin/Debug/netcoreapp2.1/Dualog-Internship.dll
+/Users/magnus/Documents/Dualog-Internship/Program/bin/Debug/netcoreapp2.1/Dualog-Internship.pdb
+/Users/magnus/Documents/Dualog-Internship/Program/obj/Debug/netcoreapp2.1/Dualog-Internship.dll
+/Users/magnus/Documents/Dualog-Internship/Program/obj/Debug/netcoreapp2.1/Dualog-Internship.pdb

@@ -1,0 +1,17 @@
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netcoreapp2.1/Tests.csprojAssemblyReference.cache
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netcoreapp2.1/Tests.csproj.CoreCompileInputs.cache
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfoInputs.cache
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfo.cs
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/Tests.deps.json
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.json
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.dev.json
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/Tests.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/Tests.pdb
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/Dualog-Internship.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netcoreapp2.1/Dualog-Internship.pdb
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netcoreapp2.1/Tests.csproj.CopyComplete
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netcoreapp2.1/Tests.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netcoreapp2.1/Tests.pdb

@@ -1,0 +1,9 @@
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netstandard2.0/Tests.deps.json
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netstandard2.0/Tests.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/bin/Debug/netstandard2.0/Tests.pdb
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netstandard2.0/Tests.csprojAssemblyReference.cache
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netstandard2.0/Tests.csproj.CoreCompileInputs.cache
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netstandard2.0/Tests.AssemblyInfoInputs.cache
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netstandard2.0/Tests.AssemblyInfo.cs
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netstandard2.0/Tests.dll
+/Users/magnus/Documents/Dualog-Internship/Tests/obj/Debug/netstandard2.0/Tests.pdb
